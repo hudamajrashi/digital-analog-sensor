@@ -4,8 +4,8 @@
 
 This project demonstrates the use of both:
 
-* 🔘 **Digital Sensor (PIR)** → ON/OFF detection
-* 🔊 **Analog Sensor (PIR + Buzzer + LEDs)** → continuous values + alert system
+*  **Digital Sensor (PIR)** → ON/OFF detection
+*  **Analog Sensor (PIR + Buzzer + LEDs)** → continuous values + alert system
 
 ---
 
