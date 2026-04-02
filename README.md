@@ -205,12 +205,6 @@ void loop() {
 
 ---
 
-### Full Circuit
-
-![Full Circuit](analog_sensor.png)
-
----
-
 ## How It Works
 
 ### Digital:
