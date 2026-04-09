@@ -193,15 +193,15 @@ void loop() {
 
 ## Analog Sensor Preview
 
-### No Motion (Red LED)
+### No light (Red LED)
 
-![No Motion](analog_sensor_withoutMotion.png)
+![No Motion](analog_sensor_night.png)
 
 ---
 
 ### Motion Detected (Green LED + Sound)
 
-![Motion](analog_sensor_withMotion.png)
+![Motion](analog_sensor_day.png)
 
 ---
 
