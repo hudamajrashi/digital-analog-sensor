@@ -199,7 +199,7 @@ void loop() {
 
 ---
 
-### Motion Detected (Green LED + Sound)
+### with light (Green LED + Sound)
 
 ![Motion](analog_sensor_day.png)
 
